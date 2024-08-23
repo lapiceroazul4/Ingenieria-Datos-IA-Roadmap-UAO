@@ -1,4 +1,15 @@
-<h2 align="center"> Roadmap - Ingenieria de Datos e Inteligencia Artificial (UAO)</h2>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFFFFF&size=25&center=true&vCenter=true&width=1000&height=100&lines=Roadmap+-+Ingenieria+de+Datos+e+Inteligencia+Artificial+(UAO)"></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO"><img src="https://img.shields.io/github/stars/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO/issues"><img src="https://img.shields.io/github/issues/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO" alt="GitHub issues"></a>
+  <a href="https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO" alt="GitHub closed issues"></a>
+  <a href="https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO/pulls"><img src="https://img.shields.io/github/issues-pr/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO" alt="GitHub open pull requests"></a>
+  <a href="https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO" alt="GitHub closed pull requests"></a>
+</p>
+
 
 Hola! bienvenido al repositorio de la carrera ing de datos e IA, nosotros somos Santiago Murgueitio y Samuel Pinzon, estudiantes *(Probablemente ya egresados para cuando leas esto)* de la UAO. 
 
