@@ -1,0 +1,27 @@
+# Environment variables
+env/
+
+# Credentials
+credentials/
+None
+
+# Data files
+data/
+
+# Python cache and virtual envs
+__pycache__/
+venv/
+
+# Poetry
+pyproject.toml
+poetry.lock
+
+# Airflow
+airflow*.*
+logs/
+standalone_admin_password.txt
+webserver_config.py
+
+# Project related
+assets/
+dashboard/
